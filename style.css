@@ -27,7 +27,7 @@
 }
 
 body {
-    background-image: url("/images/2.jpg");
+    background-image: url("/2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -63,7 +63,7 @@ main {
     display: flex;
 }
 .avatar {
-    background-image: url("/images/thu.webp");
+    background-image: url("/thu.webp");
     background-size: cover;
 }
 .info-wrap {
